@@ -1,4 +1,4 @@
-# CS645 Project: SeeDB: Efficient Data-Driven Visualization
+# SeeDB: Efficient Data-Driven Visualization
 
 ## Recommendations to Support Visual Analytics
 
